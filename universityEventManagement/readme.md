@@ -2,11 +2,11 @@
 * Spring Boot
 * h2 DataBase (SQL)
 * Core Java
+
 # Tools Used
 * IntelliJ IDEA
 * Java 17
 * Postman
-
 
 # Some End Point Below
 * http://localhost:8080/api/student/v1/getAllStudents
