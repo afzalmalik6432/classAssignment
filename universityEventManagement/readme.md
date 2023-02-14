@@ -16,7 +16,7 @@
 * http://localhost:8080/api/event/v1/getAllEventByDate?date=2023-03-01
 
 ### Note
-For adding a data and deleting a data used raw Json object with the help of postman
+For adding a data and updating a data used raw Json object with the help of postman
 Please download and run on localHost.
 
 ### References to learn Spring Boot
