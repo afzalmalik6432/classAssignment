@@ -15,6 +15,7 @@ In this project we are validation user email, phone number, username and date of
 ### Data Structure Used
 
 * Collection Api
+* Regular Expression and Pattern matching
 
 # Data flow(functions in used)
 * Controller :- We have userContoller in which we have function like addUser(@RequestBody String user), deleteUser(@RequestParam Integer userId),
